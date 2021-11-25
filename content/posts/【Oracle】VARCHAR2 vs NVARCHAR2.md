@@ -1,7 +1,7 @@
 ---
 title: "【Oracle】VARCHAR2 vs NVARCHAR2"
 date: 2021-10-25T10:55:37+08:00
-draft: true
+draft: false
 tags: [数据类型]
 categories: [Oracle, DataBase]
 ---
